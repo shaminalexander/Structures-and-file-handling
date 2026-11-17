@@ -1,0 +1,4 @@
+Tent;Shelter;2.5;4;350
+Sleeping bag;Sleeping equipment;1.2;6;150
+Tourist mat;Sleeping equipment;0.8;8;90
+Backpack;Bags;1.6;5;200
